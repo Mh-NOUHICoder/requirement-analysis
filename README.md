@@ -78,4 +78,48 @@ Non-functional requirements define **how the system should perform** and the qua
 - Scalability to handle multiple bookings simultaneously
 - Responsive design for mobile and desktop devices
 
+## Use Case Diagrams
+
+A **Use Case Diagram** is a visual representation of the interactions between users (actors) and a system. It shows the system’s key functionalities and how users engage with them. Use Case Diagrams are valuable because they:
+
+- Provide a clear overview of the system’s functional requirements.
+- Help stakeholders and developers understand user interactions.
+- Highlight system boundaries and the relationship between actors and use cases.
+- Serve as a foundation for detailed system design and testing.
+
+### Example for Booking Management System
+
+**Actors:**
+- Guest (end-user)
+- Admin
+- Payment System
+
+**Use Cases:**
+- Register / Login
+- Search Properties
+- Book Property
+- Make Payment
+- Cancel Booking
+- Manage Listings (Admin)
+
+![Booking System Use Case](alx-booking-uc.png)
+
+## Acceptance Criteria
+
+**Acceptance Criteria** define the specific conditions that a software feature must satisfy to be accepted by stakeholders. They serve as a clear, measurable standard to determine whether a requirement has been successfully implemented.
+
+**Importance in Requirement Analysis:**
+- Ensures that developers and stakeholders have a shared understanding of what “done” means for each feature.
+- Reduces ambiguity and misunderstandings during development.
+- Provides a basis for testing and validation of features.
+- Helps maintain quality and consistency across the system.
+
+**Example – Checkout Feature (Booking Management System):**
+- The user can select a property and specify booking dates.
+- Payment is processed securely and confirmed.
+- A booking confirmation email is sent to the user within 1 minute.
+- Users can view their booking details in their account dashboard.
+- Cancellation and refund options are available according to the policy.
+
+
 

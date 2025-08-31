@@ -102,7 +102,7 @@ A **Use Case Diagram** is a visual representation of the interactions between us
 - Cancel Booking
 - Manage Listings (Admin)
 
-![Booking System Use Case]([alx-booking-uc.png](https://github.com/Mh-NOUHICoder/requirement-analysis/blob/main/Booking%20management%20System.png))
+![Booking System Use Case]([[alx-booking-uc.png](https://github.com/Mh-NOUHICoder/requirement-analysis/blob/main/Booking%20management%20System.png)](https://github.com/Mh-NOUHICoder/requirement-analysis/blob/main/Booking%20management%20System.png?raw=true))
 
 ## Acceptance Criteria
 
